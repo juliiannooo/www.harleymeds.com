@@ -56,8 +56,18 @@ module.exports = {
           '"Segoe UI Symbol"',
           '"Noto Color Emoji"',
         ],
-        manrope: [
-          "Manrope",
+        akkuratll: [
+          "AkkuratLL",
+          "ui-sans-serif",
+          "system-ui",
+          "sans-serif",
+          "Apple Color Emoji",
+          "Segoe UI Emoji",
+          "Segoe UI Symbol",
+          "Noto Color Emoji",
+        ],
+        editorial_new: [
+          "Editorial New",
           "ui-sans-serif",
           "system-ui",
           "sans-serif",

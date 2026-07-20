@@ -1,35 +1,32 @@
 @font-face {
-  font-family: 'Manrope';
-  src: url('https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggexSg.woff2') format('woff2');
-  font-weight: 300;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Manrope';
-  src: url('https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggexSg.woff2') format('woff2');
+  /* @FONTWARNING[{"type":"restricted","family":"AkkuratLL","weight":"400","style":"normal","allowsCrossOrigin":false}] */
+  font-family: 'AkkuratLL';
+  src: url('https://ouraring.com/assets/fonts/AkkuratLL-Regular.woff2') format('woff2');
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Manrope';
-  src: url('https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggexSg.woff2') format('woff2');
-  font-weight: 500;
+  /* @FONTWARNING[{"type":"restricted","family":"AkkuratLL","weight":"300","style":"normal","allowsCrossOrigin":false}] */
+  font-family: 'AkkuratLL';
+  src: url('https://ouraring.com/assets/fonts/AkkuratLL-Light.woff2') format('woff2');
+  font-weight: 300;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Manrope';
-  src: url('https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggexSg.woff2') format('woff2');
-  font-weight: 600;
+  /* @FONTWARNING[{"type":"restricted","family":"Editorial New","weight":"300","style":"normal","allowsCrossOrigin":false}] */
+  font-family: 'Editorial New';
+  src: url('https://ouraring.com/assets/fonts/PPEditorialNew-Light.woff2') format('woff2');
+  font-weight: 300;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Manrope';
-  src: url('https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggexSg.woff2') format('woff2');
-  font-weight: 700;
+  /* @FONTWARNING[{"type":"restricted","family":"Editorial New","weight":"200","style":"normal","allowsCrossOrigin":false}] */
+  font-family: 'Editorial New';
+  src: url('engine://2') format('woff2');
+  font-weight: 200;
   font-style: normal;
 }
 
